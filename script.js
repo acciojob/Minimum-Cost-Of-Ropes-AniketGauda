@@ -25,7 +25,7 @@ function calculateMinCost() {
             return a-b;
         })
     }
-    pDiv.textContent = `${sm}`;
+    pDiv.textContent = `minimium cost of ropes ${sm}`;
 }  
   
 
